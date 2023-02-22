@@ -14,7 +14,7 @@ opt.autoindent = true
 opt.wrap = false
 
 -- 光标行
---opt.cursorline = true
+opt.cursorline = true
 
 -- 启用鼠标
 opt.mouse:append("a")
@@ -29,7 +29,8 @@ opt.splitbelow = true
 opt.ignorecase = true
 opt.smartcase  = true
 
---opt.termguicolors = true
+opt.termguicolors = true
 opt.signcolumn    = "yes"
 
 vim.cmd[[colorscheme tokyonight-moon]]
+vim.cmd[[set wrap]]
