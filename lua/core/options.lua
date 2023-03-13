@@ -7,7 +7,7 @@ opt.number = true
 -- 索引
 opt.tabstop = 2
 opt.shiftwidth = 2
-opt.expandtab = true 
+opt.expandtab = true
 opt.autoindent = true
 
 -- 防止包裹
