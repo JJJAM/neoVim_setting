@@ -1,2 +1,2 @@
 # neoVim_setting
-setting for NeoVim
+JJ setting for NeoVim
